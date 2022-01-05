@@ -1,4 +1,4 @@
-@Library('roboshop') _
+@Library('Roboshop') _
 
 // Variables
 env.COMPONENT = "user"
