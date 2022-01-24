@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"app-module","Source":"git::https://github.com/siddhudeva/terraform_mutable_commom_infra.git","Dir":".terraform/modules/app-module"}]}

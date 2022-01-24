@@ -1,1 +1,0 @@
-# terraform_mutable_commom_infra
